@@ -21,7 +21,10 @@ Architecture: iphoneos-arm
 Filename: ./debs/YouTube.Reborn.deb
 Size: 9000
 MD5sum: 9e363e9db1654ba341c09fb52c3c2fd2
+SHA1: 53e34615f94b44dcbbe7a366b9a1997a37b46084
+SHA256: e4d02afe7294fb800108deb99ffda0e86c10fd3a765fdff4bea38fd875c05f42
 Description: Youtube Reborn | Customize Youtube
 Name: Youtube Reborn
 Author: Nspace <nspace@mail.com>
 Depiction: https://nspacem7.github.io/repo/depictions/?p=com.nspace.youtubereborn
+
