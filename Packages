@@ -26,16 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: Youtube.reborn
+Package: com.youtube.reborn
 Version: 1.0.0-1beta
 Section: Tweaks
 Maintainer: Nspace <nspace@mail.com>
 Depends: firmware (<15.7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/YouTube.Reborn.deb
-Size: 8816
+Size: 9000
 MD5sum: 9e363e9db1654ba341c09fb52c3c2fd2
-Description: Youtube Reborn
+Description: Youtube Reborn , for Youtube
 Name: Youtube Reborn
 Author: Nspace <nspace@mail.com>
 Depiction: https://nspacem7.github.io/Repo/depictions/?p=Youtube.reborn
