@@ -30,7 +30,7 @@ Package: com.youtube.reborn
 Version: 1.0.0-1beta
 Section: Tweaks
 Maintainer: Nspace <nspace@mail.com>
-Depends: firmware (<15.7.0)
+Depends: firmware (=<15.7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/YouTube.Reborn.deb
 Size: 9000
