@@ -29,3 +29,21 @@ Description: Youtube Reborn | Customize Youtube
 Author: Nspace <nnspace@mail.co>
 Depiction: https://nspacem7.github.io/repo/depictions/?p=com.nspace.youtubereborn
 Name: Youtube Reborn
+
+Package: com.nspace.nicebarx15
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Nspace <nspace@mail.com>
+Installed-Size: 2400
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.nspace.nicebarx15.deb
+Size: 2392232
+MD5sum: 2f81c75e753cd6a26e3ddca32abf157d
+SHA1: d0a12554ea9f2262c87495f5ca7109418563fd69
+SHA256: 466ea558d7feeee7cae7c9f512109c3c74d726c575dd9a25841282a0181d5b52
+Section: Tweaks
+Homepage: https://nspacem7.github.io/repo
+Description: NiceBarX
+Author: Nspace <nnspace@mail.co>
+Depiction: https://nspacem7.github.io/repo/depictions/?p=com.com.nspace.nicebarx15
+Name: NiceBarX
