@@ -34,13 +34,13 @@ Package: com.nspace.nicebarx15
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Nspace <nspace@mail.com>
-Installed-Size: 11400
+Installed-Size: 2500
 Depends: firmware (>7.0), mobilesubstrate
 Filename: ./debs/com.nspace.nicebarx15.deb
-Size: 11418484
-MD5sum: 861a6a35636ad596331fc9f0f1d58b55
-SHA1: 71b736c63264dcaf2e892b801c2104c4d3d7a303
-SHA256: 70dea25889615e75b8601f3ea5a64fa3e6410341c0417319ca4c20c3638210e4
+Size: 2530560
+MD5sum: 0dbb51accd73b8cf0bc412345b4bce6d
+SHA1: b50bd0bf3d87f8677184e8e9c8016ba6ab845927
+SHA256: 8be862318bbe9f23340c5b793690107475aa02d200a6897527cdb13c64c86de7
 Section: Tweaks
 Homepage: https://nspacem7.github.io/repo
 Description: NiceBarX
